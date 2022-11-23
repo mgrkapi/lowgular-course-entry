@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
+body {
+  background: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%) no-repeat;
+  height: 100vh;
+  font-family: 'GFS Didot', serif;
+}
