@@ -1,0 +1,16 @@
+.gallery {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+
+.image {
+  width: 200px;
+}
+
+.name {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #560d34;
+  text-align: center;
+}

@@ -1,0 +1,6 @@
+<section class="gallery">
+<div *ngFor="let employee of data$ | async">
+  <img class="image" [src]="employee.image" alt="faces"/>
+  <p class="name">{{employee.name}}</p>
+</div>
+</section>
